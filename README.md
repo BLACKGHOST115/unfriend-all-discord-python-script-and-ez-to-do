@@ -20,19 +20,23 @@
 <h2>how to install</h2>
 
 <ol>
-
-    <li>asdas </li>
-    <li></li>
-
-</ol>
 pip install discord.py
+</ol>
 
-pip install discord.py-self
-
+<ol>
 pip install discum
+</ol>
 
+<ol>
+pip install discord.py-self
+</ol>
 
-
+<ol>
 cd C:\path\to\your\script
+</ol>
 
+<ol>
 python script_name.py
+</ol>
+
+
