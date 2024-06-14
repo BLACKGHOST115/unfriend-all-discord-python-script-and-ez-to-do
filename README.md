@@ -21,15 +21,22 @@
 
 ```
  pip install discord.py
- 
 ```
 
-``` pip install discum ```
+```
+pip install discum
+```
 
-``` pip install discord.py-self ```
+```
+pip install discord.py-self
+```
 
-``` cd C:\path\to\your\script ```
+```
+cd C:\path\to\your\script
+```
 
-``` python script_name.py ```
+```
+python script_name.py
+```
 
 
