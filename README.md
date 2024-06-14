@@ -1,5 +1,5 @@
-# unfriend-all-python script and ez to do 
- a simple python script for un friending everone on your friend list 
+# unfriend-all discord python script
+ a simple python script for unfriending everone on your friend list 
 
 ## Disclaimer ⚠
 
@@ -50,3 +50,24 @@ python discord_unfriend.py
 ```
 now you should see your friend list getting cleaned
 
+## you should know
+
+Your account may get Disabled because of the script.
+
+And you will get an email from discord informing you that they detected suspicious activity on your account and believe your account may have been compromised.
+Because of this, they will disable your Discord account.
+And will log you out of every platform.
+Just reset your password and re-login.
+
+## Q&A 
+Q: do this brake discord TOS
+A: YES
+
+Q: can this get me banned 
+A: yes but unlikely (same thing whit discord 3 party clients that have mods they can ban you for it but they don't unless you abuse it or spam it)
+
+Q: will you take responsibility if something happens 
+A: NO use at your own risk (but most likely there is no risk)
+
+Q: Will this get me a strike 
+A: most likely not
