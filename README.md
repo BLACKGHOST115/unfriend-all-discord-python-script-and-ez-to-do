@@ -60,21 +60,17 @@ And will log you out of every platform.
 Just reset your password and re-login.
 
 ## Q&A 
-Q: do this brake discord <a href="https://discord.com/terms">TOS</a>
 
+
+### Q: do this brake discord <a href="https://discord.com/terms">TOS</a>
 A: YES
 
-
-Q: can this get me banned 
-
+### Q: can this get me banned 
 A: yes but unlikely (same thing whit discord 3 party clients that have mods they can ban you for it but they don't unless you abuse it or spam it)
 
 
-Q: will you take responsibility if something happens 
-
+### Q: will you take responsibility if something happens 
 A: NO use at your own risk (but most likely there is no risk)
 
-
-Q: Will this get me a strike 
-
+### Q: Will this get me a strike 
 A: most likely not
