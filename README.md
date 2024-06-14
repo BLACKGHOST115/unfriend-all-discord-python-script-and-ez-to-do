@@ -19,7 +19,10 @@
 
 ## how to install
 
-``` pip install discord.py ```
+```
+ pip install discord.py
+ 
+```
 
 ``` pip install discum ```
 
