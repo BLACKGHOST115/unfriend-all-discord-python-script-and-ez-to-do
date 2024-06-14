@@ -34,7 +34,7 @@ pip install discord.py-self
 
 pip install discum
 ```
-then <a href="discord_unfriend.py">download</a> the script 
+then <a href="[discord_unfriend.py](https://github.com/BLACKGHOST115/unfriend-all-python-script-and-ez-to-do/blob/testting-/discord_unfriend.py)">download</a> the script 
 
 ```
 cd C:\path\to\your\script
