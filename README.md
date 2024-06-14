@@ -18,7 +18,7 @@ this script breaks discord <a href="https://discord.com/terms">TOS</a> and can g
 
   <li>your account discord token</li>
 
-  <li>a text edetor</li>
+  <li>a text editor (vccode\notepad\......) </li>
 
 </ul>
 
@@ -34,14 +34,19 @@ pip install discord.py-self
 
 pip install discum
 ```
-then <a href="https://github.com/BLACKGHOST115/unfriend-all-python-script-and-ez-to-do/blob/testting-/discord_unfriend.py">download</a> the script 
+then <a href="discord_unfriend.py">download</a> the script and replase the YOUR_DISCORD_TOKEN whit your discord token inside the script whit a text editor then save it
 
+finde the the location of the script in your machine then fined the pat of it.
+
+it should look like this```C:\path\to\your\script```
+
+the copy the command doen below and replase the ```C:\path\to\your\script``` whit your file pat and run it in CMD
 ```
 cd C:\path\to\your\script
 ```
-
+then copy the following command and run the in cmd 
 ```
-python script_name.py
+python discord_unfriend.py
 ```
-
+now you should see your friend list getting cleaned
 
