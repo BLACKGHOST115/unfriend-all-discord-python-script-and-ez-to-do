@@ -17,26 +17,16 @@
 
 </ul>
 
-<h2>how to install</h2>
+## how to install
 
-<ol>
-pip install discord.py
-</ol>
+$ pip install discord.py
 
-<ol>
-pip install discum
-</ol>
+$ pip install discum
 
-<ol>
-pip install discord.py-self
-</ol>
+$ pip install discord.py-self
 
-<ol>
-cd C:\path\to\your\script
-</ol>
+$ cd C:\path\to\your\script
 
-<ol>
-python script_name.py
-</ol>
+$ python script_name.py
 
 
