@@ -1,7 +1,7 @@
 # unfriend-all-python script and ez to do 
  a simple python script for un friending everone on your friend list 
 
-## disclaimer ⚠
+## Disclaimer ⚠
 
 this script breaks discord <a href="https://discord.com/terms">TOS</a> and can get your account suspended use at your own risk
 
