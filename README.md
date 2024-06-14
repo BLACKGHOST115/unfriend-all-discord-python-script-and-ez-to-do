@@ -8,13 +8,13 @@ this script breaks discord <a href="https://discord.com/terms">TOS</a> and can g
 ## what you need
 <ul>
 
-  <li><a href="https://www.python.org/downloads/">python</a></li>
+  <li><a href="https://www.python.org/downloads/">python  (installed)</a></li>
 
-  <li>discord.py</li>
+  <li>discord.py (installed) </li>
 
-  <li>discord.py-self</li>
+  <li>discord.py-self (installed)</li>
 
-  <li>discum</li>
+  <li>discum (installed)</li>
 
   <li>your account discord token</li>
 
@@ -34,6 +34,7 @@ pip install discord.py-self
 
 pip install discum
 ```
+then <a href="discord_unfriend.py">download</a> the script 
 
 ```
 cd C:\path\to\your\script
