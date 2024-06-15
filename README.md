@@ -3,7 +3,7 @@
 
 ## Disclaimer ⚠
 
-this script breaks discord <a href="https://discord.com/terms">TOS</a> and can get your account suspended use at your own risk
+this script breaks <a href="https://discord.com/terms">DISCORD TOS</a> and can get your account suspended use at your own risk
 
 ## what you need
 <ul>
@@ -50,6 +50,37 @@ python discord_unfriend.py
 ```
 now you should see your friend list getting cleaned
 
+## how to use & install (ubuntu/debian)
+
+first install python on you machine using the this command in side terminal 
+```
+sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo apt clean -y && sudo apt autoclean -y && sudo apt install python3-dev python3-pip libffi-dev libopus-dev -y
+```
+
+then open cmd and and copy and paste the following commands
+```
+python3 -m pip install -U discord.py && python3 -m pip install -U discord.py-self && python3 -m pip install -U discum
+```
+then <a href="discord_unfriend.py">download</a> the script and replase the YOUR_DISCORD_TOKEN whit your discord token inside the script whit a text editor then save it
+
+finde the the location of the script in your machine then fined the pat of it.
+
+it should look like this```/home/[username]/downloads```
+
+the copy the command doen below and replase the ```/home/[username]/downloads``` whit your file pat and run it in terminal 
+```
+cd /home/[username]/downloads
+```
+then copy the following command and run the in terminal 
+```
+python3 discord_unfriend.py
+```
+now you should see your friend list getting cleaned
+
+## how to use & install (macOS)
+
+### still working on it (i never used appel OS in my life)
+
 ## you should know
 
 Your account may get Disabled because of the script.
@@ -62,7 +93,7 @@ Just reset your password and re-login.
 ## Q&A 
 
 
-### Q: do this brake discord <a href="https://discord.com/terms">TOS</a>
+### Q: do this brake <a href="https://discord.com/terms">DISCORD TOS</a>
 A: YES
 
 ### Q: can this get me banned 
