@@ -57,7 +57,7 @@ first install python on you machine using the this command in side terminal
 sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo apt clean -y && sudo apt autoclean -y && sudo apt install python3-dev python3-pip libffi-dev libopus-dev -y
 ```
 
-then open cmd and and copy and paste the following commands
+then open terminal and and copy and paste the following commands
 ```
 python3 -m pip install -U discord.py && python3 -m pip install -U discord.py-self && python3 -m pip install -U discum
 ```
